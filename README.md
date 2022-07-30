@@ -1,16 +1,8 @@
-# possessions_app
+# Basketball Defensive Stats Tracker
 
-A Basketball Possession Tracker
+A Basketball Defensive Possessions Stats Tracker
 
-## Getting Started
+## Project Description
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+As an assitant basketball coach, one of my roles was to track the effectiveness of our various defenses during the game. In the heat of the game, it could be difficult to decipher the most effective defense (by points per possession allowed). This app allowed me to input the result of each defensive possession so that it would calculate points per possession automatically.<br /><br />
+This app utilizes Provider for state management and includes several getters in the Possessions class.
